@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olukayode</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, Vue**
 
 - 📫 How to reach me **olukayodeazeez2000@gmail.com**
 
